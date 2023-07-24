@@ -1,0 +1,10 @@
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\bin\Debug\aim practice.exe.config
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\bin\Debug\aim practice.exe
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\bin\Debug\aim practice.pdb
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\obj\Debug\aim practice.csprojAssemblyReference.cache
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\obj\Debug\aim_practice.Form1.resources
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\obj\Debug\aim_practice.Properties.Resources.resources
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\obj\Debug\aim practice.csproj.GenerateResource.cache
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\obj\Debug\aim practice.csproj.CoreCompileInputs.cache
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\obj\Debug\aim practice.exe
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\aim practice\aim practice\obj\Debug\aim practice.pdb
